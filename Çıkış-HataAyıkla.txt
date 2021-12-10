@@ -1,0 +1,11 @@
+﻿'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Users\ali kemal\Desktop\c++ visual\AliKemalCimşit_210707019_BM104_Proje1\x64\Debug\AliKemalCimşit_210707019_BM104_Proje1.exe' yüklendi. Semboller yüklendi.
+'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Windows\System32\ntdll.dll' yüklendi. 
+'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Windows\System32\kernel32.dll' yüklendi. 
+'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Windows\System32\KernelBase.dll' yüklendi. 
+'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Windows\System32\vcruntime140d.dll' yüklendi. 
+'AliKemalCimşit_210707019_BM104_Proje1.exe' (Win32): 'C:\Windows\System32\ucrtbased.dll' yüklendi. 
+0x2814 iş parçacığı 0 (0x0) koduyla çıktı.
+0x114c iş parçacığı 3221225786 (0xc000013a) koduyla çıktı.
+0x387c iş parçacığı 3221225786 (0xc000013a) koduyla çıktı.
+0x2d60 iş parçacığı 3221225547 (0xc000004b) koduyla çıktı.
+'[18300] AliKemalCimşit_210707019_BM104_Proje1.exe' programı 3221225786 (0xc000013a) koduyla çıktı.
